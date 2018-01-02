@@ -17,6 +17,7 @@
 <img src="images/code.png" width="500">
 
 **如果是在 gradle 文件中需要这块代码，先粘贴到文本编辑器中再放到应该的位置**
+<br>
 这样包名不会被自动应用
 <br>
 <img src="images/move.png" width="500">
